@@ -20,6 +20,8 @@ https://docs.google.com/document/d/1omGVq4OHoKAt93RfWQtOweZ4LZaer7_vOMu60hbtuMs/
 https://docs.google.com/spreadsheets/d/1BaQN0hJEvb3lvZmNShHQ_-MTzyfefmywu9Uof6UryxU/edit?usp=sharing  
 Ссылка на репозиторий на GitHub:  
 https://github.com/MaryBochkareva/NightValley.git  
+Ссылка на итоговый отчет:
+https://docs.google.com/document/d/1o5z5JEJJTRMLEyvTZq-c7_jDj2nvWUA6p6tg9_RDerg/edit?usp=sharing
   
 ####Текущие достижения
 На данный момент реализованы следующие пункты:  
